@@ -1,4 +1,4 @@
-# token-transfer-hook
+# solana-token-transfer-hook
 
 This project is generated with the [create-solana-dapp](https://github.com/solana-developers/create-solana-dapp) generator.
 
