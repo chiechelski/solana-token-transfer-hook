@@ -34,6 +34,7 @@
     "react-hot-toast": "2.4.1",
     "react-router-dom": "6.11.2",
     "stream-browserify": "3.0.0",
+    "rpc-websockets": "7.11.0",
     "tslib": "^2.3.0"
   },
   "devDependencies": {
