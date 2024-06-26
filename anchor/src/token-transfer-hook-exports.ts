@@ -8,5 +8,5 @@ export { TokenTransferHook, TokenTransferHookIDL };
 
 // After updating your program ID (e.g. after running `anchor keys sync`) update the value below.
 export const programId = new PublicKey(
-  '7R1TCtyhpENWUmYBWdttEi4uuV7GbJeF63JrtVTo7TYN'
+  'FCpYRhgTTicTM3zZVYLpswXCko6mKVyzdf5fBe7yoZps'
 );

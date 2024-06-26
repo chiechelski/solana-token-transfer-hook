@@ -107,5 +107,8 @@
       "name": "AmountTooBig",
       "msg": "The transferred amount is too big"
     }
-  ]
+  ],
+  "metadata": {
+    "address": "FCpYRhgTTicTM3zZVYLpswXCko6mKVyzdf5fBe7yoZps"
+  }
 }

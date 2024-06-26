@@ -7,7 +7,7 @@ pub mod errors;
 pub mod instructions;
 pub mod state;
 
-declare_id!("7R1TCtyhpENWUmYBWdttEi4uuV7GbJeF63JrtVTo7TYN");
+declare_id!("FCpYRhgTTicTM3zZVYLpswXCko6mKVyzdf5fBe7yoZps");
 
 #[program]
 pub mod token_transfer_hook {
